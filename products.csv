@@ -1,0 +1,57 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost
+10001,Velocity Running Shoes,Footwear,Running Shoes,Velocity,104.94,56.94
+10002,Apex Running Shoes,Footwear,Running Shoes,Apex,147.84,72.41
+10003,Northwind Core Running Shoes,Footwear,Running Shoes,Northwind Core,78.72,33.33
+10004,Trailhead Running Shoes,Footwear,Running Shoes,Trailhead,66.97,35.49
+10005,Velocity Training Shoes,Footwear,Training Shoes,Velocity,132.13,66.89
+10006,Apex Training Shoes,Footwear,Training Shoes,Apex,62.47,34.08
+10007,Northwind Core Training Shoes,Footwear,Training Shoes,Northwind Core,159.89,69.05
+10008,Trailhead Training Shoes,Footwear,Training Shoes,Trailhead,81.82,34.98
+10009,Velocity Lifestyle Sneakers,Footwear,Lifestyle Sneakers,Velocity,96.51,46.2
+10010,Apex Lifestyle Sneakers,Footwear,Lifestyle Sneakers,Apex,111.83,49.62
+10011,Northwind Core Lifestyle Sneakers,Footwear,Lifestyle Sneakers,Northwind Core,133.42,56.16
+10012,Trailhead Lifestyle Sneakers,Footwear,Lifestyle Sneakers,Trailhead,95.06,43.25
+10013,Velocity Basketball Shoes,Footwear,Basketball Shoes,Velocity,114.73,59.4
+10014,Apex Basketball Shoes,Footwear,Basketball Shoes,Apex,83.96,40.06
+10015,Northwind Core Basketball Shoes,Footwear,Basketball Shoes,Northwind Core,131.09,53.35
+10016,Trailhead Basketball Shoes,Footwear,Basketball Shoes,Trailhead,132.91,56.56
+10017,Velocity T-Shirts,Apparel,T-Shirts,Velocity,24.55,12.09
+10018,Apex T-Shirts,Apparel,T-Shirts,Apex,87.59,41.28
+10019,Northwind Core T-Shirts,Apparel,T-Shirts,Northwind Core,41.32,15.07
+10020,Trailhead T-Shirts,Apparel,T-Shirts,Trailhead,67.9,28.25
+10021,Velocity Hoodies,Apparel,Hoodies,Velocity,28.54,12.11
+10022,Apex Hoodies,Apparel,Hoodies,Apex,22.41,10.9
+10023,Northwind Core Hoodies,Apparel,Hoodies,Northwind Core,38.11,17.13
+10024,Trailhead Hoodies,Apparel,Hoodies,Trailhead,41.82,17.9
+10025,Velocity Joggers,Apparel,Joggers,Velocity,58.27,22.01
+10026,Apex Joggers,Apparel,Joggers,Apex,87.87,40.97
+10027,Northwind Core Joggers,Apparel,Joggers,Northwind Core,85.76,41.53
+10028,Trailhead Joggers,Apparel,Joggers,Trailhead,61.85,30.2
+10029,Velocity Shorts,Apparel,Shorts,Velocity,26.19,9.94
+10030,Apex Shorts,Apparel,Shorts,Apex,23.17,9.24
+10031,Northwind Core Shorts,Apparel,Shorts,Northwind Core,47.21,18.45
+10032,Trailhead Shorts,Apparel,Shorts,Trailhead,78.01,31.48
+10033,Velocity Leggings,Apparel,Leggings,Velocity,39.67,17.11
+10034,Apex Leggings,Apparel,Leggings,Apex,29.86,14.04
+10035,Northwind Core Leggings,Apparel,Leggings,Northwind Core,25.22,12.56
+10036,Trailhead Leggings,Apparel,Leggings,Trailhead,74.06,28.13
+10037,Velocity Jackets,Apparel,Jackets,Velocity,20.39,9.63
+10038,Apex Jackets,Apparel,Jackets,Apex,69.48,31.92
+10039,Northwind Core Jackets,Apparel,Jackets,Northwind Core,73.99,26.72
+10040,Trailhead Jackets,Apparel,Jackets,Trailhead,45.09,16.57
+10041,Velocity Socks,Accessories,Socks,Velocity,39.93,15.71
+10042,Apex Socks,Accessories,Socks,Apex,20.24,6.26
+10043,Northwind Core Socks,Accessories,Socks,Northwind Core,19.51,6.8
+10044,Trailhead Socks,Accessories,Socks,Trailhead,35.0,13.85
+10045,Velocity Hats,Accessories,Hats,Velocity,40.83,15.14
+10046,Apex Hats,Accessories,Hats,Apex,12.42,5.05
+10047,Northwind Core Hats,Accessories,Hats,Northwind Core,36.15,13.89
+10048,Trailhead Hats,Accessories,Hats,Trailhead,36.53,13.66
+10049,Velocity Backpacks,Accessories,Backpacks,Velocity,27.34,9.96
+10050,Apex Backpacks,Accessories,Backpacks,Apex,8.94,2.83
+10051,Northwind Core Backpacks,Accessories,Backpacks,Northwind Core,9.16,3.62
+10052,Trailhead Backpacks,Accessories,Backpacks,Trailhead,19.63,7.39
+10053,Velocity Water Bottles,Accessories,Water Bottles,Velocity,41.58,14.03
+10054,Apex Water Bottles,Accessories,Water Bottles,Apex,23.18,9.58
+10055,Northwind Core Water Bottles,Accessories,Water Bottles,Northwind Core,16.47,5.13
+10056,Trailhead Water Bottles,Accessories,Water Bottles,Trailhead,18.72,6.07
