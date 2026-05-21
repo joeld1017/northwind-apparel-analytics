@@ -65,7 +65,7 @@ December order volume is **3x January**, but average order value stays flat at ~
 - Window functions: RANK() OVER (PARTITION BY), AVG() OVER (ROWS BETWEEN ...) for rolling averages
 - Date functions: STRFTIME for time-series grouping
 
-**Coming next:** Python forecasting (pandas, Prophet, statsmodels), Tableau Public dashboard, Power BI dashboard, executive one-page memo.
+**Live Dashboard:** [Northwind Apparel Supply Chain Dashboard](https://public.tableau.com/app/profile/joel.diaz5841/viz/NorthwindApparelSupplyChainDashboard/NorthwindApparelCo_-SupplyChainOperationsDashboard)
 
 ---
 
