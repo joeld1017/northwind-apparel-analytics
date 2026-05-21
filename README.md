@@ -69,6 +69,17 @@ December order volume is **3x January**, but average order value stays flat at ~
 
 ---
 
+**Forecasting Notebook:** [`northwind_demand_forecast.ipynb`](northwind_demand_forecast.ipynb)
+
+Multi-model demand forecast comparing SMA (MAPE 37.1%), Holt-Winters (3.86%), 
+and Facebook Prophet (2.73%) on 36 months of supply chain data. Includes time-series 
+decomposition, seasonal analysis, and a 12-month 2026 forward forecast with 95% 
+confidence intervals.
+
+Key finding: Prophet forecasts 2026 annual revenue of $1,966,619 (-9.4% YoY), 
+with Sacramento DC on-time rate projected to fall below 15% during Q4 2026 
+peak — compounding the operational gap identified in the SQL analysis.
+
 ## About the Analyst
 
 I'm pivoting into supply chain and operations analytics after 10+ years in operations leadership at Nike (5 years, four promotions), Gap Inc., and UNFI. This project draws on the operational patterns I worked with day-to-day in apparel/footwear distribution.
