@@ -67,6 +67,13 @@ December order volume is **3x January**, but average order value stays flat at ~
 
 **Live Dashboard:** [Northwind Apparel Supply Chain Dashboard](https://public.tableau.com/app/profile/joel.diaz5841/viz/NorthwindApparelSupplyChainDashboard/NorthwindApparelCo_-SupplyChainOperationsDashboard)
 
+**Python (Jupyter Notebook)**
+- pandas, NumPy for data manipulation and time-series preparation
+- statsmodels (seasonal decomposition, Holt-Winters Exponential Smoothing)
+- Prophet (Facebook/Meta) for Bayesian demand forecasting with US holiday effects
+- matplotlib, seaborn for publication-quality visualizations
+- scikit-learn for MAPE accuracy benchmarking
+
 ---
 
 **Forecasting Notebook:** [`northwind_demand_forecast.ipynb`](northwind_demand_forecast.ipynb)
